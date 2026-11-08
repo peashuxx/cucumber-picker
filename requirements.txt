@@ -1,0 +1,6 @@
+numpy
+opencv-python
+onnxruntime
+pyserial
+# ROS2 packages and device kinematics extensions are installed separately.
+# camera_test.py additionally requires pyrealsense2.

@@ -1,0 +1,51 @@
+# Python/runtime cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Local editor and environment files
+.vscode/
+.idea/
+.venv/
+venv/
+env/
+
+# Local drafts
+plan/
+paper.md
+PROJECT_SUMMARY.md
+结题报告书_文字补充稿.md
+
+# Office/source documents not requested for repository upload
+*.doc
+*.docx
+*.tmp
+~$*
+~WRL*.tmp
+大创立项.doc
+结题报告书.doc
+北京林业大学毕业论文撰写规范.doc
+
+# Logs and local test artifacts
+*.log
+mount_test.txt
+
+# Raw dataset is stored separately.
+Dataset/
+
+# Raw videos
+*.mov
+*.MOV
+
+# OS files
+.agents/
+.codex/
+软著/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.github-publish/
+.DS_Store
+Thumbs.db
